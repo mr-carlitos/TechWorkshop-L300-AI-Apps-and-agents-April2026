@@ -2,6 +2,7 @@
 MCP Client - Connects to the MCP inventory server via stdio transport
 with a persistent connection that is reused across tool calls.
 """
+#testt
 import asyncio
 import logging
 import sys
